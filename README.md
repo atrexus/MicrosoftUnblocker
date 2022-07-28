@@ -12,3 +12,5 @@ I have tried to make this program as lightweight as possible and I was able to n
 2. **Wait for Message**: Now all you need to do is wait. This process could take a while depending on the application, but usually it gets done quite quickly. If the program succeeded, it should display a message like so: ![Screenshot1](https://github.com/Buff3rOverfl0w/MicrosoftUnblocker/blob/main/Images/Screenshot1.png) 
 3. **Run the Unblocked App**: Finally, you can venture to that directory presented in the previous step and you have complete access to all of your unblocked apps! The icons may be quite pixilated and I apologise for that, I still need to find a workaround for them. 
 
+### Disclamer
+I would like to clarify that in no way shape or form am I responsible for any actions done with this software. Once downloaded and in your hands it is all **your** responsibility. I created this project because I was curious and wanted to learn how certain things are done. I have decided to share this code with you because I believe that there are people out there just like me who would love to learn how certain things work.
